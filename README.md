@@ -1,0 +1,1 @@
+# localizare-FirefoxOS
